@@ -4,7 +4,7 @@ description : Insert the chapter description here
 
 
 --- type:NormalExercise lang:r xp:100 skills:1 key:581d904f7c
-## Warm up and vectors
+## Warm up and vectors I
 
 Have a look at Task 1 a) from Problem Set 1. 
 
@@ -61,7 +61,8 @@ success_msg("Nice work!")
 
 
 --- type:NormalExercise lang:r xp:100 skills:1 key:c8ba91913a
-## Warm up and vectors
+## Warm up and vectors II
+
 Have a look at Task 1 b) from Problem Set 1. 
 
 *** =instructions
